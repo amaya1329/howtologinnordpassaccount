@@ -5,7 +5,7 @@ How to Login NordPass Account?
    :maxdepth: 2
    :caption: Contents:
 
-For login Nor5Pass Account Click Here:
+For login NordPass Account Click Here:
 ------------------------------
 👉 https://getchatsupport.live/
 ---------------------------
