@@ -1,11 +1,6 @@
 How to Login NordPass Account?
 ============================================
 
-
-For Login NordPass Account Click Here:
-------------------------------
-👉 https://getchatsupport.live/
----------------------------
 In the digital age, managing passwords has become a major concern. With the increasing number of accounts, apps, and services that require unique login credentials, it can be difficult to keep track of them all. This is where password managers like NordPass come in. NordPass is a popular password manager that helps you store and secure your passwords, credit card details, and other sensitive information in one convenient place. In this article, we will take a closer look at how to log in to your NordPass account and make the most out of the service.
 
 .. image:: click-login.png
